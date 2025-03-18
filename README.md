@@ -1,5 +1,5 @@
 # Amigo Secreto
-![https://acolombini.github.io/challenge_AlluraLatam](Visita el sitio)
+[https://acolombini.github.io/challenge_AlluraLatam](Visita el sitio)
 
 Esta aplicación permite a los usuarios agregar nombres de amigos y realizar un sorteo aleatorio para seleccionar un "amigo secreto".
 
