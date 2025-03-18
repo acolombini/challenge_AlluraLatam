@@ -1,4 +1,5 @@
 # Amigo Secreto
+![Visita el sitio y diviertete](https://acolombini.github.io/challenge_AlluraLatam/)
 
 Esta aplicación permite a los usuarios agregar nombres de amigos y realizar un sorteo aleatorio para seleccionar un "amigo secreto".
 
@@ -13,19 +14,13 @@ Esta aplicación permite a los usuarios agregar nombres de amigos y realizar un 
 
 ### Pantalla principal
 
-![Pantalla principal](screenshots/main_screen.png)
+![Pantalla principal](assets/captures/home.png)
 
 ### Lista de amigos
 
-![Lista de amigos](screenshots/friends_list.png)
+![Lista de amigos](assets/captures/lista_amigos.png)
 
 ### Resultado del sorteo
 
-![Resultado del sorteo](screenshots/draw_result.png)
+![Resultado del sorteo](assets/captures/resultado_sorteo.png)
 
-## Cómo ejecutar la aplicación
-
-1. Clona el repositorio en tu máquina local.
-2. Abre el archivo `index.html` en tu navegador web.
-
-¡Disfruta de tu sorteo de amigo secreto!
